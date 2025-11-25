@@ -46,7 +46,7 @@ Execute the program using runserver command.
                 <th bgcolor="pink">WED</th>
                 <th bgcolor="pink">THURS</th>
                 <th bgcolor="pink">FRI</th>
-                <th bgcolor="pink">SAT</td>
+                <th bgcolor="pink">SAT</th>
             </tr>
             <tr>
                 <td bgcolor="pink">8-10</td>
