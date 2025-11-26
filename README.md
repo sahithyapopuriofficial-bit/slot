@@ -114,7 +114,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9478637-e9d7-4d7d-bfa2-c829ba266032" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e71ce52e-e038-4c25-b98f-1e8fb8d3a7f8" />
 
 
 ## RESULT
